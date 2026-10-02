@@ -46,11 +46,11 @@ If you find our work and/or our code useful, please cite us via:
 
 ```bibtex
 @inproceedings{
-zhang2026vfscale,
-title={{VFS}cale: Intrinsic Reasoning through Verifier-Free Test-time Scalable Diffusion Model},
-author={Tao Zhang and Jia-Shu Pan and Ruiqi Feng and Tailin Wu},
-booktitle={The Fourteenth International Conference on Learning Representations},
-year={2026},
-url={https://openreview.net/forum?id=8ta0xgtsJK}
+  zhang2026vfscale,
+  title={{VFS}cale: Intrinsic Reasoning through Verifier-Free Test-time Scalable Diffusion Model},
+  author={Tao Zhang and Jia-Shu Pan and Ruiqi Feng and Tailin Wu},
+  booktitle={The Fourteenth International Conference on Learning Representations},
+  year={2026},
+  url={https://openreview.net/forum?id=8ta0xgtsJK}
 }
 ```
