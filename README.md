@@ -1,7 +1,7 @@
-# VFScale: Intrinsic Reasoning through Verifier-Free Test-time Scalable Diffusion Model
+# VFScale: Intrinsic Reasoning through Verifier-Free Test-time Scalable Diffusion Model (ICLR 2026)
 Here is the official implementation for **VFScale: Intrinsic Reasoning through Verifier-Free Test-time Scalable Diffusion Model**. 
 
-[[arXiv](https://arxiv.org/abs/2502.01989)]
+[[paper](https://openreview.net/forum?id=8ta0xgtsJK)][[arXiv](https://arxiv.org/abs/2502.01989)]
 
 We introduce we introduce the Verifier-free Test-time Scalable Diffusion Model (VFScale) to achieve scalable intrinsic reasoning, which equips number-of-sample test-time scaling with the intrinsic energy function of diffusion models as the verifier.
 **Trained with Maze tasks of up to 6x6, VFScale can generalize to solve much harder 15x15 Maze tasks, with larger test-time compute resulting in higher accuracy:**
